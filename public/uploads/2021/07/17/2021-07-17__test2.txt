@@ -1,0 +1,6 @@
+    Employer
+ - Chưa tạo thông tin công ty nhưng vẫn cho tạo công việc
+ - Các career của công ty chưa được ràng buộc với fomr tạo công việc. 
+Ví dụ career của công ty chỉ có It, bán hàng , kỹ thuật nhưng form tạo công việc thì chọn career Hành chính - văn phòng
+vẫn cho tạo tin tuyển dụng.
+ 

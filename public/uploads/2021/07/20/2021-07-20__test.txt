@@ -1,0 +1,16 @@
+ HomePage:
+- Chưa tìm kiếm theo địa điểm của Job được.
+- Đăng nhập sai tài khoản hoặc mật khẩu chưa hiển thị thông báo
+- Không đăng nhập,đăng ký được trong page nghề nghiệp nổi bật => lỗi 419 PAGE EXPIRED
+- pageJobdetail Admin chưa duyệt tin nhưng vẫn hiện thị các tin tuyển dụng liên quan
+Admin:
+- Đăng nhập sai tài khoản hoặc mật khẩu chưa hiển thị thông báo
+- Chưa thêm và xóa các Ngành nghề
+- Chưa thêm và xóa các Thuộc tính
+
+--------------------------------------Update------------------------
+
+Homepage
+- update thêm: hiển thị các logo công ty nổi bật
+- thêm khung chat để tư vấn khách hàng.
+- Tạo CV online
